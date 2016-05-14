@@ -1,0 +1,162 @@
+body {
+    background: #7f7f7e url(images/evenbetter.jpg) no-repeat fixed 10% 50px;
+}
+#home h1 {
+	font-size: 100px;
+	margin: 100px 0px 0px 50px;
+}
+#home h2 {
+	font-size: 45px;
+	margin: 0px 0px 0px 100px;
+}
+h1, h2, h3 {
+    color: #00a40b;
+    font-weight: bold;
+}
+h3 {
+    
+}
+.profile-image {
+	border: 20px solid transparent;
+	border-radius: 40px;
+}
+.section-title {
+	text-align: center;
+	font-size: 45px;	
+}
+#about p {
+	font-size: 20px;
+}
+#about, #skills, #projects {
+    padding-top: 50px;
+    margin-top: -50px;
+    margin-bottom: 25px;
+}
+#map {
+	width: 500px;
+	height: 400px;
+	margin: 0 auto;
+}
+p {
+	margin-bottom: 25px;
+}
+ul {
+	list-style-position: inside;
+}
+.navbar-nav li {
+	font-size: 25px;
+	padding-left: 30px;
+}
+#projects img {
+	margin-bottom: 10px;
+}
+#projects h4 {
+	margin-top: 55px;
+}
+.initials {
+	font-size: 2em;
+	font-weight: bolder;
+    color: #00a40b !important;
+}
+.navbar {
+    background-color: #000000;
+}
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+    background-color: #00a40b; 
+    color: #000000;
+    border-radius: 15px;
+    font-weight: 500;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #00a40b;
+}
+.div-background {
+    background-color: #ffffff;
+    border-radius: 40px;
+    padding: 25px;
+    opacity: .8;
+}
+.div-title-background {
+    border-radius: 40px;
+    opacity: .8;
+}
+.title-section {
+    border-radius: 40px;
+    margin-top: 85px;
+    margin-bottom: 25px;
+    opacity: .8;
+}
+.project-image {
+    border-radius: 40px;
+}
+#footer {
+    width: 100%;
+    left: 0;
+    bottom: 0;
+}
+.content-of-footer {
+    text-align: justify;
+    list-style: none;
+    padding: 10px;
+}
+.bottom-button {
+    padding-top: 5px;
+    width: 45%;
+    height: 45%;
+}
+#email, #vcard, #resume, #linkedin, #github, #bitbucket, #stackoverflow, #codepen {
+    text-align: center;
+}
+#email a, #vcard a, #resume a, #linkedin a, #github a, #bitbucket a, #stackoverflow a, #codepen a {
+    color: #00a40b;
+    padding-bottom: 10px;
+}
+/*.content-of-footer a {
+    font-size: 14px;
+    color: #00a40b;
+    padding: 5px;
+}
+.content-of-footer a:hover {
+    font-size: 14px;
+    background: #00a40b;
+    border-radius: 40px;
+    padding: 5px;
+    color: #000000;
+    text-decoration: none;*/
+}
+/* CSS for progress bar */
+.fadeIn {
+    animation-duration: 0.7s;
+    animation-fill-mode: forwards;
+    animation-name: fadeIn;
+    animation-timing-function: ease-in-out;
+}
+.progress_bar {
+    margin-bottom: 10px;
+    position: relative;
+}
+.progress_bar_title {
+    color: hsl(0, 0%, 0%);
+    display: inline;
+    font-size: 13px;
+    font-weight: 900;
+    text-transform: uppercase;
+}
+.progress_number {
+    color: #a2a1a4;
+    font-size: 13px;
+    font-weight: 900;
+    position: absolute;
+    right: 0;
+    text-transform: uppercase;
+    top: 0;
+}
+.progress_bar_holder {
+    background: #d6d9dc;
+    margin-top: 5px;
+}
+.progress_bar_content {
+    height: 5px;
+    transition: width 1s ease-in-out 0s;
+}
+/* End of CSS for progress bar */
