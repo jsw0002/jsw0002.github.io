@@ -47,9 +47,7 @@ ul {
 #projects img {
 	margin-bottom: 10px;
 }
-#projects h4 {
-	margin-top: 55px;
-}
+
 .initials {
 	font-size: 2em;
 	font-weight: bolder;
@@ -84,7 +82,7 @@ ul {
     opacity: .8;
 }
 .project-image {
-    border-radius: 40px;
+    border: 1px solid black;
 }
 #footer {
     width: 100%;
