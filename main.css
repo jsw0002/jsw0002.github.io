@@ -13,9 +13,6 @@ h1, h2, h3 {
     color: #00a40b;
     font-weight: bold;
 }
-h3 {
-    
-}
 .profile-image {
 	border: 20px solid transparent;
 	border-radius: 40px;
@@ -111,19 +108,11 @@ ul {
     color: #00a40b;
     padding-bottom: 10px;
 }
-/*.content-of-footer a {
-    font-size: 14px;
-    color: #00a40b;
-    padding: 5px;
+.important {
+    font-size: 28px;
+    font-weight: bolder;
 }
-.content-of-footer a:hover {
-    font-size: 14px;
-    background: #00a40b;
-    border-radius: 40px;
-    padding: 5px;
-    color: #000000;
-    text-decoration: none;*/
-}
+
 /* CSS for progress bar */
 .fadeIn {
     animation-duration: 0.7s;
