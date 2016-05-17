@@ -47,7 +47,9 @@ ul {
 #projects img {
 	margin-bottom: 10px;
 }
-
+#projects a {
+   color: #00a40b; 
+}
 .initials {
 	font-size: 2em;
 	font-weight: bolder;
