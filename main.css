@@ -44,7 +44,7 @@ ul {
 	font-size: 25px;
 	padding-left: 30px;
 }
-#projects a {
+#projects a, #skills a {
    color: #00a40b; 
 }
 .initials {
@@ -97,6 +97,11 @@ ul {
     padding-top: 5px;
     width: 45%;
     height: 45%;
+}
+#skills img {
+    width: 7%;
+    height: 7%;
+    margin-top: -3px;
 }
 #email, #vcard, #resume, #linkedin, #github, #bitbucket, #stackoverflow, #codepen {
     text-align: center;
