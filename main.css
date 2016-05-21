@@ -87,14 +87,20 @@ ul {
     width: 100%;
     left: 0;
     bottom: 0;
+    position: fixed;
+    height: 60px;
+    background-color: #000000;
 }
 .content-of-footer {
     text-align: justify;
     list-style: none;
     padding: 10px;
 }
+#projects {
+    padding-bottom: 60px;
+}
 .bottom-button {
-    padding-top: 5px;
+    padding-top: 10px;
     width: 45%;
     height: 45%;
 }
