@@ -120,6 +120,11 @@ ul {
     font-size: 28px;
     font-weight: bolder;
 }
+.center {
+    text-align: center;
+    padding-top: 5px;
+    margin-bottom: -25px;
+}
 
 /* CSS for progress bar */
 .fadeIn {
