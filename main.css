@@ -120,10 +120,13 @@ ul {
     font-size: 28px;
     font-weight: bolder;
 }
-.center {
+#skillscenter {
     text-align: center;
     padding-top: 5px;
     margin-bottom: -25px;
+}
+.center {
+    text-align: center;
 }
 
 /* CSS for progress bar */
