@@ -3,11 +3,13 @@ body {
 }
 #home h1 {
 	font-size: 100px;
-	margin: 100px 0px 0px 50px;
 }
 #home h2 {
 	font-size: 45px;
-	margin: 0px 0px 0px 100px;
+}
+#header {
+    text-align: center;
+    margin-top: 50px;
 }
 h1, h2, h3 {
     color: #00a40b;
