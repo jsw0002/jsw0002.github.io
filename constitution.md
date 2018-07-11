@@ -48,7 +48,7 @@ Championship Trophy and Toilet Bowl trophy should be transferred to the new owne
 
 ## League Setup and Competition
 
-The TBDL will consist of 10 different teams, broken into two conferences of five teams each. The schedule will be randomly generated, with each team playing every other team at least once in head-to-head match-up. Teams will also play their division opponents an additional time. Since the regular season lasts 15 weeks and this only accounts for 13 the remaining two games will be randomly assigned every season.
+The TBDL will consist of 10 different teams, broken into two conferences of five teams each. The schedule will be randomly generated, with each team playing every other team at least once in head-to-head match-up. Teams will also play their division opponents an additional time. Since the regular season lasts 14 weeks and this only accounts for 13 the remaining game will be randomly assigned every season.
 
 ### Playoffs
 
