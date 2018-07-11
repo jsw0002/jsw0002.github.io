@@ -2,13 +2,13 @@
 
 ## Table of Contents
 
-* [League Overview](#League-Overview)
-* [League Financing](#League-Financing)
-* [League Setup And Competition](#League-Setup-And-Competition)
-* [Rosters And Lineups](#Rosters-And-Lineups)
-* [Scoring System](#Scoring-System)
-* [Offseason Activities](#Offseason-Activities)
-* [Amendments](#Amendments)
+* [League Overview](#league-overview)
+* [League Financing](#league-financing)
+* [League Setup And Competition](#league-setup-and-competition)
+* [Rosters And Lineups](#rosters-and-lineups)
+* [Scoring System](#scoring-system)
+* [Offseason Activities](#offseason-activities)
+* [Amendments](#amendments)
 
 ## League Overview
 
