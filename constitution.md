@@ -46,7 +46,7 @@ The TBD league fee for the 2018 season will be $25 from each owner. There is not
 
 Championship Trophy and Toilet Bowl trophy should be transferred to the new owners within 30 days of the league end date. Loser pays all shipping fees if necessary.
 
-*Troy Rule* As punishment for finishing last in the league the loser will have to take a picture of themselves holding the toilet bowl and make it their team picture for the next season. As well as their team name will have to incorporate the word "loser".
+*Troy's Rule* As punishment for finishing last in the league the loser will have to take a picture of themselves holding the toilet bowl and make it their team picture for the next season. As well as their team name will have to incorporate the word "loser".
 
 ## League Setup and Competition
 
