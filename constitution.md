@@ -24,11 +24,11 @@ It is important to note that this is a living, breathing constitution that will 
 
 ## League Financing
 
-The league fee for TBD will be charged to each team owner, payable to the commissioner on or before the playoffs. Fees will be accepted as cash, check, Chase QuickPay, PayPal, or Venmo.
+The league fee for TBD will be charged to each team owner, payable to the commissioner on or before the draft. Fees will be accepted as cash, check, Chase QuickPay, PayPal, or Venmo.
 
 ### League Fee
 
-The TBD league fee for the 2018 season will be $25 from each owner. There is not an entry fee for the league and all money goes to cover the cost of the league championship trophy, the toilet bowl trophy, and the league winner's championship ring with case. This fee is due before the playoffs begin. All subsequent years fee will be $10 from each owner and will consist of the league winner's championship ring and a new nameplate for the league championship trophy.
+The TBD league fee for the 2018 season will be $25 from each owner. There is not an entry fee for the league and all money goes to cover the cost of the league championship trophy, the toilet bowl trophy, and the league winner's championship ring with case. This fee is due before the draft begins. All subsequent years fee will be $10 from each owner and will consist of the league winner's championship ring and a new nameplate for the league championship trophy.
 
 ### Trophies
 
