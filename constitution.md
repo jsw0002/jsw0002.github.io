@@ -100,7 +100,7 @@ Starting lineups in TBDL will consist as follows:
 - 1 flex (running back, wide receiver, or tight end)
 - 1 defense / special teams
 
- There will also be 5 bench spots. Players may be added or removed from the starting lineup up until the start of the first NFL game. On weeks where the NFL has a Thursday game, owners may make changes to their lineups up to the start of the second NFL game, but may not change a player that has already played.
+ There will also be 6 bench spots. Players may be added or removed from the starting lineup up until the start of the first NFL game. On weeks where the NFL has a Thursday game, owners may make changes to their lineups up to the start of the second NFL game, but may not change a player that has already played.
 
 #### Position Designations
 
